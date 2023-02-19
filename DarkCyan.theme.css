@@ -1,0 +1,27 @@
+/**
+ * @name Dark Cyan
+ * @description A clean AMOLED black theme, based on Cyan.
+ * @author DaBluLite#7409
+ * @authorId 582170007505731594
+ * @version 5.3.0
+*/
+ 
+@import url(https://dablulite.github.io/Cyan/import.css);
+@import url(https://dablulite.github.io/Dark-Cyan/import.css);
+:root {
+	--cyan-background-primary: #000;
+    --cyan-background-secondary: #000;
+	--cyan-background-tertiary: #000;
+	--cyan-background-elevated: #000;
+	--background-floating: #000;
+    --background-secondary-alt: #000;
+	--background-tertiary: #000;
+	--cyan-elevation-shadow: 0 0 0 1px #0e0e0e;
+	--cyan-font: "Montserrat", "Open Sans";
+	--cyan-background-img: linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%);
+	--window-margin: 0;
+	--window-border-radius: calc((var(--window-margin)/var(--window-margin)) * 8px);
+	--cyan-accent-color: #007d66;
+	--cyan-blur-radius: 0;
+	--cyan-status-mask-background: var(--profile-body-background-color);
+}
