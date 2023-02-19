@@ -1,0 +1,3 @@
+.platform-win .container-1eFtFS::before, .platform-osx .container-1eFtFS::before {
+  height: calc((100% - ((var(--window-margin) * 1px)) * 2) - 32px);
+}
