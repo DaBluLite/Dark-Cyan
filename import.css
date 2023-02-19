@@ -1,3 +1,10 @@
 .platform-win .container-1eFtFS::before, .platform-osx .container-1eFtFS::before {
   height: calc((100% - ((var(--window-margin) * 1px)) * 2) - 32px);
 }
+.platform-win #app-mount .sidebar-1tnWFu, .platform-osx #app-mount .sidebar-1tnWFu {
+  margin-top: 42px !important;
+}
+.platform-win #app-mount .guilds-2JjMmN, .platform-osx #app-mount .guilds-2JjMmN {
+  margin-top: 42px !important;
+  height: calc((100% - ((var(--window-margin) * 1px)) * 2) - 32px) !important;
+}
