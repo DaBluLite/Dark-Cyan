@@ -8,3 +8,6 @@
   margin-top: calc(32px + (max(0,var(--window-margin)))*1px) !important;
   height: calc((100% - ((var(--window-margin) * 1px)) * 2) - (((var(--window-margin)/var(--window-margin)) * 10px) + 22px)) !important;
 }
+.withFrame-2dL45i {
+    width: 322px !important;
+}
