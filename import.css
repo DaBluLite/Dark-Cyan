@@ -2,9 +2,9 @@
   height: calc((100% - ((var(--window-margin) * 1px)) * 2) - 32px);
 }
 .platform-win #app-mount .sidebar-1tnWFu, .platform-osx #app-mount .sidebar-1tnWFu {
-  margin-top: calc(((var(--window-margin)/var(--window-margin)) * 10px) + 32px) !important;
+  margin-top: calc(32px + (max(0,var(--window-margin)))*1px) !important;
 }
 .platform-win #app-mount .guilds-2JjMmN, .platform-osx #app-mount .guilds-2JjMmN {
-  margin-top: clac(((var(--window-margin)/var(--window-margin)) * 10px) + 32px) !important;
+  margin-top: calc(32px + (max(0,var(--window-margin)))*1px) !important;
   height: calc((100% - ((var(--window-margin) * 1px)) * 2) - (((var(--window-margin)/var(--window-margin)) * 10px) + 22px)) !important;
 }
