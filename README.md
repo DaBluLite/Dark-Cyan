@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://github.com/DaBluLite/Cyan/blob/master/cyan-addon-banner.png?raw=true"/>
+<img src="https://github.com/DaBluLite/Dark-Cyan/blob/master/cyan-addon-banner.png?raw=true"/>
 </div>
 
 # Dark Cyan
