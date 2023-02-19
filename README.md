@@ -22,8 +22,3 @@ It uses Cyan's core codebase as well as its own set of modifications to better i
 [comment]: <> (<div align='center'>)
 [comment]: <> (<img src="https://github.com/DaBluLite/Cyan/blob/master/screenshots/cyan-screenshot-2.png?raw=true"/>)
 [comment]: <> (</div>)
-
-# Alternative theme banner
-<div align='center'>
-<img src="https://github.com/DaBluLite/Cyan/blob/master/cyan-addon-banner-alt.png?raw=true"/>
-</div>
