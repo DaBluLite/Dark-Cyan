@@ -2,17 +2,12 @@
 <img src="https://github.com/DaBluLite/Cyan/blob/master/cyan-addon-banner.png?raw=true"/>
 </div>
 
-# Cyan
+# Dark Cyan
 
-A sleek and clean BetterDiscord theme, with custom background support
+A clean AMOLED black theme, based on [Cyan](https://betterdiscord.app/theme/Cyan).
 
-[Get it on BetterDiscord](https://betterdiscord.app/theme/Cyan)
-
-Also available through the ThemeRepo plugin by DevilBro
-
-Cyan is a sleek theme that aims to be clean, customizable and nice to the eyes.
-
-[Addons for Cyan are available here](https://github.com/DaBluLite/Cyan/tree/master/Addons)
+Dark Cyan is a preconfigured amd modified version of Cyan to follow an AMOLED style.
+It uses Cyan's core codebase as well as its own set of modifications to better intergrate the look. whilist keeping the "Cyan" look
 
 # Special thanks to:
 * [@ObjectiveSlayer](https://github.com/ObjectiveSlayer)/carrot#8812
@@ -20,13 +15,13 @@ Cyan is a sleek theme that aims to be clean, customizable and nice to the eyes.
 * [@lucysim9](https://github.com/lucysim9)/lucism#3987
 * [@Lavender-Discord](https://github.com/Lavender-Discord) - [@Obscure-Git](https://github.com/Obscure-Git)/Obscure.#4719
 
-# Screenshots
-<div align='center'>
-<img src="https://github.com/DaBluLite/Cyan/blob/master/screenshots/cyan-screenshot-1.png?raw=true"/>
-</div>
-<div align='center'>
-<img src="https://github.com/DaBluLite/Cyan/blob/master/screenshots/cyan-screenshot-2.png?raw=true"/>
-</div>
+[comment]: <> (# Screenshots)
+[comment]: <> (<div align='center'>)
+[comment]: <> (<img src="https://github.com/DaBluLite/Cyan/blob/master/screenshots/cyan-screenshot-1.png?raw=true"/>)
+[comment]: <> (</div>)
+[comment]: <> (<div align='center'>)
+[comment]: <> (<img src="https://github.com/DaBluLite/Cyan/blob/master/screenshots/cyan-screenshot-2.png?raw=true"/>)
+[comment]: <> (</div>)
 
 # Alternative theme banner
 <div align='center'>
