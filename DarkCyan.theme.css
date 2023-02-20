@@ -5,8 +5,7 @@
  * @authorId 582170007505731594
  * @version 5.3.0
 */
- 
-@import url(https://dablulite.github.io/Cyan/import.css);
+
 @import url(https://dablulite.github.io/Dark-Cyan/import.css);
 :root {
 	--cyan-background-primary: #000;
