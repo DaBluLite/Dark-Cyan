@@ -9,11 +9,11 @@
 @import url(https://dablulite.github.io/Dark-Cyan/import.css);
 :root {
 	--cyan-background-primary: #000;
-    --cyan-background-secondary: #000;
+    	--cyan-background-secondary: #000;
 	--cyan-background-tertiary: #000;
 	--cyan-background-elevated: #000;
 	--background-floating: #000;
-    --background-secondary-alt: #000;
+    	--background-secondary-alt: #000;
 	--background-tertiary: #000;
 	--cyan-elevation-shadow: 0 0 0 1px #0e0e0e;
 	--cyan-font: "Montserrat", "Open Sans";
